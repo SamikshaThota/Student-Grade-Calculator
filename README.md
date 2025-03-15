@@ -9,11 +9,11 @@ Assigns grades based on percentage
 Displays results in a structured format  
 
 How It Works  
-1️⃣ The program prompts the user to enter:  
+The program prompts the user to enter:  
    - Student Name  
    - Roll Number  
    - Marks for 5 subjects (or more)  
-2️⃣ It calculates:  
+It calculates:  
    - **Total Marks** = Sum of all subject marks  
    - **Percentage** = `(Total Marks / Max Marks) * 100`  
    - **Grade** based on percentage:  
@@ -21,9 +21,9 @@ How It Works
      - `80-89%` → **Grade B**  
      - `70-79%` → **Grade C**  
      - `Below 70%` → **Grade D**  
-3️⃣ The final result is displayed with total marks, percentage, and grade.  
+The final result is displayed with total marks, percentage, and grade.  
 
-## 🛠Technologies Used  
+Technologies Used:
 - **Java** (Core Java concepts)  
 - **Java Scanner Class** for user input  
 - **Conditional Statements** (if-else)  
